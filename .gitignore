@@ -1,2 +1,5 @@
 /mine/
 /rubric_instruction/
+
+#credentials
+.env
